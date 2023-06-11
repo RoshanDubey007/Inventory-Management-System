@@ -1,2 +1,2 @@
 # Inventory-Management-System
-Its a minimal software which small shops can use to create invoice and manage there shops by using its auto invoice,billing,Discount and Product listing
+It's a minimal software that small shops can use to create invoices and manage their shops. It offers features such as auto invoicing, billing, discounts, and product listing. The software helps streamline the shop's operations and simplify the process of generating invoices, managing inventory, and applying discounts. Its user-friendly interface makes it easy for shop owners to navigate and utilize its functionalities efficiently.
